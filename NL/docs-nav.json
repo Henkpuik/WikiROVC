@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "text": "Getting Started",
+      "items": [
+        {
+          "text": "From Startup Templates",
+          "path": "Read-Me.md"
+        }
+        //,
+        // {
+        //   "text": "From Empty Projects",
+        //   "items": [
+        //     {
+        //       "text": "With ASP.NET Core Web Application",
+        //       "path": "Getting-Started-AspNetCore-Application.md"
+        //     },
+        //     {
+        //       "text": "With Console Application",
+        //       "path": "Getting-Started-Console-Application.md"
+        //     }
+        //   ]
+        // }
+      ]
+    }
+  ]
+}
